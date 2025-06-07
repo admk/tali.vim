@@ -24,6 +24,6 @@ Neovim / Vim syntax highlighting for [tali][tali].
   ```
 
 [tali]: https://github.com/admk/tali
-[screenshot]: https://raw.githubusercontent.com/admk/tali/master/assets/example.png
+[screenshot]: https://raw.githubusercontent.com/admk/tali.vim/refs/heads/main/assets/example.png
 [lazy.nvim]: https://github.com/folke/lazy.nvim
 [vim-plug]: https://github.com/junegunn/vim-plug
